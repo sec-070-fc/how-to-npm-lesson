@@ -1,0 +1,23 @@
+{
+  "name": "@sec_fc/how-to-npm-lesson",
+  "version": "1.0.1",
+  "description": "How-To-NPM Lesson work",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sec-070-fc/how-to-npm-lesson.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sec-070-fc/how-to-npm-lesson/issues"
+  },
+  "homepage": "https://github.com/sec-070-fc/how-to-npm-lesson#readme"
+}
